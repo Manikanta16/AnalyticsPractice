@@ -1,2 +1,2 @@
 # Analytics
-#files with implementation of concepts related to analytics, ML, EDA are present here 
+#EDA and prediction of passengers survival on titanic
