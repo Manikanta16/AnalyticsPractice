@@ -1,2 +1,2 @@
 # Analytics
-#EDA and prediction of passengers survival on titanic
+#EDA and prediction of passenger's survival on titanic
